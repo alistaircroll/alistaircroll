@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @alistaircroll
-- 👀 I’m interested in how tech is changing society
-- 🌱 I’m currently learning entertainment analytics, digital government, Ableton
-- 💞️ I’m looking to collaborate on figuring out the entertainment economy, writing about subversive go-to-market strategy, virtual and hybrid events, analytics.
-- 📫 I'm @acroll on most platforms, and alistaircroll.com.
-- I'm a product manager; I coded a long time ago, and I'm experimenting with some new projects so I have a better understanding of how AI can help non-engineers like me build things.
-
-<!---
-alistaircroll/alistaircroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm Alistair (@acroll on most platforms.) You can find out more about me at alistaircroll.com
+I run conferences, write books, consult with startups, and overthink all the ways technology is changing society. I’m fascinated with emergent behavior, what agentic coding means to entrepreneurship, how to drag government kicking and screaming into the digital age, and building things with Touchdesiger and Ableton Live.
+I'm a product manager; I coded a long time ago, and I'm experimenting with some new projects so I have a better understanding of how AI can help non-engineers like me build things.
